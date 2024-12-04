@@ -6,4 +6,8 @@
 
 ### Goals : Mastery in ISL
 
-#### Schedule : https://docs.google.com/spreadsheets/d/123HZUE8cdZHYbj4eWHy5GPN4rhBJ1quJNjPpg-Jp9lo/edit?usp=sharing
+## Schedule
+
+| Date         | Topic             | Siddhesh Visualizations | Krrish Visualizations | Goals                                      | Minutes of the Meet | Code Link |
+|--------------|-------------------|-------------------------|-----------------------|-------------------------------------------|---------------------|-----------|
+| 10 Dec 2024  | Linear Regression | 3.2 & 3.4              | 3.5 & 3.6            | Read the chapter, code the lab & note the doubts |                     |           |
