@@ -11,3 +11,4 @@
 | Date         | Topic             | Siddhesh Visualizations | Krrish Visualizations | Goals                                      | Progress Update | Code Link | 
 |--------------|-------------------|-------------------------|-----------------------|-------------------------------------------|---------------------|-----------|
 | 10 Dec 2024  | Linear Regression | 3.2 & 3.4              | 3.5 & 3.6            | Read the chapter, code the lab & note the doubts |                     |           |
+| 17 Dec 2024  | Classification | -            | 4.6 & 4.9          | Read the chapter, code the lab & note the doubts |                     |           |
